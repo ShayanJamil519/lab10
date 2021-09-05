@@ -1,0 +1,10 @@
+E:\C# Programs\Lab10Q2\Lab10Q2\obj\Debug\Lab10Q2.csprojAssemblyReference.cache
+E:\C# Programs\Lab10Q2\Lab10Q2\obj\Debug\Lab10Q2.Form1.resources
+E:\C# Programs\Lab10Q2\Lab10Q2\obj\Debug\Lab10Q2.Properties.Resources.resources
+E:\C# Programs\Lab10Q2\Lab10Q2\obj\Debug\Lab10Q2.csproj.GenerateResource.cache
+E:\C# Programs\Lab10Q2\Lab10Q2\obj\Debug\Lab10Q2.csproj.CoreCompileInputs.cache
+E:\C# Programs\Lab10Q2\Lab10Q2\bin\Debug\Lab10Q2.exe.config
+E:\C# Programs\Lab10Q2\Lab10Q2\bin\Debug\Lab10Q2.exe
+E:\C# Programs\Lab10Q2\Lab10Q2\bin\Debug\Lab10Q2.pdb
+E:\C# Programs\Lab10Q2\Lab10Q2\obj\Debug\Lab10Q2.exe
+E:\C# Programs\Lab10Q2\Lab10Q2\obj\Debug\Lab10Q2.pdb
